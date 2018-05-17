@@ -30,3 +30,39 @@
 | [Ubuntu 14.04](https://storage.googleapis.com/swift-tensorflow/ubuntu14.04/swift-tensorflow-DEVELOPMENT-2018-05-10-a-ubuntu14.04.tar.gz) | May 10, 2018 |
 
 <details>
+  <summary>Older Packages</summary>
+
+### Xcode
+
+| Download |
+|----------|
+| [May 3, 2018](https://storage.googleapis.com/swift-tensorflow/mac/swift-tensorflow-DEVELOPMENT-2018-05-03-a-osx.pkg) |
+| [April 26, 2018](https://storage.googleapis.com/swift-tensorflow/mac/swift-tensorflow-DEVELOPMENT-2018-04-26-a-osx.pkg) |
+
+### Ubuntu 16.04
+
+| Download |
+|----------|
+| [May 3, 2018](https://storage.googleapis.com/swift-tensorflow/ubuntu16.04/swift-tensorflow-DEVELOPMENT-2018-05-03-a-ubuntu16.04.tar.gz) |
+| [April 26, 2018](https://storage.googleapis.com/swift-tensorflow/ubuntu16.04/swift-tensorflow-DEVELOPMENT-2018-04-26-a-ubuntu16.04.tar.gz) |
+
+### Ubuntu 14.04
+
+| Download |
+|----------|
+| [May 3, 2018](https://storage.googleapis.com/swift-tensorflow/ubuntu14.04/swift-tensorflow-DEVELOPMENT-2018-05-03-a-ubuntu14.04.tar.gz) |
+| [April 26, 2018](https://storage.googleapis.com/swift-tensorflow/ubuntu14.04/swift-tensorflow-DEVELOPMENT-2018-04-26-a-ubuntu14.04.tar.gz) |
+
+</details>
+<br/>
+
+**Note:** Currently, the Xcode toolchains above only support macOS development. iOS/tvOS/watchOS are not supported.
+
+# Using Downloads
+
+## macOS
+
+### Requirements
+
+* macOS 10.12.4 or later
+* Xcode 9.0 beta or later
