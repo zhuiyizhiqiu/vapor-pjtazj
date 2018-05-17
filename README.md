@@ -70,6 +70,7 @@
 ### 打开Mac的终端输入下面的命令
 
     brew install vapor/tap/vapor
+    
     
 如果没有安装Homebrew，请先安装，这是连接https://brew.sh 
 
@@ -86,12 +87,10 @@
 
 接着构建和运行你的项目
 
-    
     cd CPApp
     vapor build
     vapor run
     
-  
 在浏览器键入. http://localhost:8080/hello 看看是不是返回了“Hello，world！”
 如果返回，则代表构建运行成功。
 
@@ -113,7 +112,7 @@
  当终端出现
     GIthub origin url
     >
- 在>的后面输入SSH
+ 在>的后面输入SSH链接。
  
     
   
