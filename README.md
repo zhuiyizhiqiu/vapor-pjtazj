@@ -68,18 +68,21 @@
 * Xcode 9.0 beta or later
 
 ### 打开Mac的终端输入下面的命令
+
     brew install vapor/tap/vapor
     
 如果没有安装Homebrew，请先安装，这是连接https://brew.sh 
 
 继续输入命令新建一个vapor文件夹
 
-    mkdir ~/vapor
-    cd ~/vapor
+      mkdir ~/vapor
+      cd ~/vapor
 
 然后输入下面的命令创建项目
+
     
-    vapor new CPApp --api --branch=beta
+      vapor new CPApp --api --branch=beta
+    
 
 接着构建和运行你的项目
 
@@ -103,13 +106,14 @@
  如果没有vapor cloud的账户，那就去https://dashboard.vapor.cloud注册一个
  然后继续在终端操作
     
-    vapor cloud login //这个登陆你的vaporcloud
-    vapor cloud deploy //vapor cloud 部署
+    vapor cloud login      //这个登陆你的vaporcloud
+    vapor cloud deploy     //vapor cloud 部署
+    
  接着在GitHub创建自己的仓库托管
  当终端出现
     GIthub origin url
     >
- 在>的后面输入SSH链接
+ 在>的后面输入SSH
  
     
   
