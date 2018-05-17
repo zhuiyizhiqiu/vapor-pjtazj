@@ -104,9 +104,7 @@
  然后继续在终端操作
     
     vapor cloud login      //这个登陆你的vaporcloud
-    
-    vapor cloud deploy     //vapor cloud 部署
-    
+    vapor cloud deploy     //vapor cloud 部署
     
 接着在GitHub创建自己的仓库托管
 当终端出现
@@ -115,13 +113,8 @@
     >
 
 在>的后面输入SSH链接。
+
   cd ~/vapor
   cd ~/vapor
   cd ~/vapor
-
-
-
-
-
-
-
+  
