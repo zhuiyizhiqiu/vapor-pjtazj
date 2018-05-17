@@ -76,18 +76,18 @@
 
 继续输入命令新建一个vapor文件夹
 
+
       mkdir ~/vapor
       cd ~/vapor
 
+
 然后输入下面的命令创建项目
 
-    
       vapor new CPApp --api --branch=beta
-    
-
+      
 接着构建和运行你的项目
 
-    cd CPApp
+    cd CPApp
     vapor build
     vapor run
     
@@ -112,8 +112,8 @@
  当终端出现
     GIthub origin url
     >
- 在>的后面输入SSH链接。
- 
+
+  在>的后面输入SSH链接。
     
   
    
