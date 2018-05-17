@@ -121,7 +121,7 @@
     
 遇到
     
-    which build type？
+    which build type？
     > 3
     
 然后你会看到
@@ -134,5 +134,5 @@
     Successfuly depolyed
     
 证明你部署成功了
-下面是我部署完的云服务器访问链接 https://zjapjt-productionapp.vapor.cloud/pjt/zj  还有一个是https://zjapjt-productionapp.vapor.cloud/hello 
+
  
