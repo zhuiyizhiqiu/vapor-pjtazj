@@ -108,13 +108,33 @@
     
 接着在GitHub创建自己的仓库托管
 当终端出现
-
-    GIthub origin url
+    
+    GIthub origin url
     >
+    
+在>的后面输入托管仓库的SSH链接。
+接下来按照提示一步一步操作就好，遇到“y/n”，一律属于“y”
+除了这个输入“n”以外
+    
+    would you like to add database?
+    y/n> n
+    
+遇到
+    
+    which build type？
+    > 3
+    
+然后你会看到
+    
+    Is the above information corrent?
+    y/n?> y
+    
+接着你要是看到
+    
+    Successfuly depolyed
+    
+证明你部署成功了
+下面是我部署完的云服务器访问链接 https://zjapjt-productionapp.vapor.cloud/pjt/zj  还有一个是https://zjapjt-productionapp.vapor.cloud/hello 
+ 
 
-在>的后面输入SSH链接。
-
-  cd ~/vapor
-  cd ~/vapor
-  cd ~/vapor
-  
+  
